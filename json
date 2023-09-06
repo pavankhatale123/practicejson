@@ -1,0 +1,2040 @@
+{
+  "companyname": "Groupsoft",
+  "updated": "today",
+  "OpeningDate": "16/10/1997",
+  "roleLevels": [
+    {
+      "firstlevelmanager": {
+        "roleLevelid": 1,
+        "employes": [
+          {
+            "employeId": 3,
+            "personalInfo": [
+              {
+                "emerganynumber": [],
+                "qualifiaction": [
+                  {
+                    "qualifiactionid": 0,
+                    "startyear": true,
+                    "endtyear": false,
+                    "college": 555549,
+                    "percentage": 25
+                  },
+                  {
+                    "qualifiactionid": 0,
+                    "startyear": true,
+                    "endtyear": false,
+                    "college": 555549,
+                    "percentage": 25
+                  },
+                  {
+                    "qualifiactionid": 0,
+                    "startyear": true,
+                    "endtyear": false,
+                    "college": 555549,
+                    "percentage": 25
+                  },
+                  {
+                    "qualifiactionid": 0,
+                    "startyear": true,
+                    "endtyear": false,
+                    "college": 555549,
+                    "percentage": 25
+                  }
+                ],
+                "experience": [
+                  {
+                    "companyName": "qqqq",
+                    "totalyr": 45,
+                    "payment": 4525
+                  },
+                  {
+                    "companyName": "qqqq",
+                    "totalyr": 45,
+                    "payment": 4525
+                  },
+                  {
+                    "companyName": "qqqq",
+                    "totalyr": 45,
+                    "payment": 4525
+                  },
+                  {
+                    "companyName": "qqqq",
+                    "totalyr": 45,
+                    "payment": 4525
+                  }
+                ],
+                "skills": [
+                  {
+                    "frontend": {
+                      "technology": "react",
+                      "expintech": 55,
+                      "projects": [
+                        {
+                          "project1": [
+                            {
+                              "projectname": "",
+                              "timetaken": "555"
+                            }
+                          ],
+                          "project2": [
+                            {
+                              "projectname": "",
+                              "timetaken": "555"
+                            }
+                          ],
+                          "project3": [
+                            {
+                              "projectname": "",
+                              "timetaken": "555"
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    "Backend": {
+                      "technology": "react",
+                      "expintech": 55,
+                      "projects": [
+                        {
+                          "project1": [
+                            {
+                              "projectname": "",
+                              "timetaken": "555"
+                            }
+                          ],
+                          "project2": [
+                            {
+                              "projectname": "",
+                              "timetaken": "555"
+                            }
+                          ],
+                          "project3": [
+                            {
+                              "projectname": "",
+                              "timetaken": "555"
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    "database": {
+                      "technology": "react",
+                      "expintech": 55,
+                      "projects": [
+                        {
+                          "project1": [
+                            {
+                              "projectname": "",
+                              "timetaken": "555"
+                            }
+                          ],
+                          "project2": [
+                            {
+                              "projectname": "",
+                              "timetaken": "555"
+                            }
+                          ],
+                          "project3": [
+                            {
+                              "projectname": "",
+                              "timetaken": "555"
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    "Other": {
+                      "technology": "react",
+                      "expintech": 55,
+                      "projects": [
+                        {
+                          "project1": [
+                            {
+                              "projectname": "",
+                              "timetaken": "555"
+                            }
+                          ],
+                          "project2": [
+                            {
+                              "projectname": "",
+                              "timetaken": "555"
+                            }
+                          ],
+                          "project3": [
+                            {
+                              "projectname": "",
+                              "timetaken": "555"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "employeId": 3,
+            "personalInfo": [
+              {
+                "emerganynumber": [],
+                "qualifiaction": [
+                  {
+                    "qualifiactionid": 0,
+                    "startyear": true,
+                    "endtyear": false,
+                    "college": 555549,
+                    "percentage": 25
+                  },
+                  {
+                    "qualifiactionid": 0,
+                    "startyear": true,
+                    "endtyear": false,
+                    "college": 555549,
+                    "percentage": 25
+                  },
+                  {
+                    "qualifiactionid": 0,
+                    "startyear": true,
+                    "endtyear": false,
+                    "college": 555549,
+                    "percentage": 25
+                  },
+                  {
+                    "qualifiactionid": 0,
+                    "startyear": true,
+                    "endtyear": false,
+                    "college": 555549,
+                    "percentage": 25
+                  }
+                ],
+                "experience": [
+                  {
+                    "companyName": "qqqq",
+                    "totalyr": 45,
+                    "payment": 4525
+                  },
+                  {
+                    "companyName": "qqqq",
+                    "totalyr": 45,
+                    "payment": 4525
+                  },
+                  {
+                    "companyName": "qqqq",
+                    "totalyr": 45,
+                    "payment": 4525
+                  },
+                  {
+                    "companyName": "qqqq",
+                    "totalyr": 45,
+                    "payment": 4525
+                  }
+                ],
+                "skills": [
+                  {
+                    "frontend": {
+                      "technology": "react",
+                      "expintech": 55,
+                      "projects": [
+                        {
+                          "project1": [
+                            {
+                              "projectname": "",
+                              "timetaken": "555"
+                            }
+                          ],
+                          "project2": [
+                            {
+                              "projectname": "",
+                              "timetaken": "555"
+                            }
+                          ],
+                          "project3": [
+                            {
+                              "projectname": "",
+                              "timetaken": "555"
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    "Backend": {
+                      "technology": "react",
+                      "expintech": 55,
+                      "projects": [
+                        {
+                          "project1": [
+                            {
+                              "projectname": "",
+                              "timetaken": "555"
+                            }
+                          ],
+                          "project2": [
+                            {
+                              "projectname": "",
+                              "timetaken": "555"
+                            }
+                          ],
+                          "project3": [
+                            {
+                              "projectname": "",
+                              "timetaken": "555"
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    "database": {
+                      "technology": "react",
+                      "expintech": 55,
+                      "projects": [
+                        {
+                          "project1": [
+                            {
+                              "projectname": "",
+                              "timetaken": "555"
+                            }
+                          ],
+                          "project2": [
+                            {
+                              "projectname": "",
+                              "timetaken": "555"
+                            }
+                          ],
+                          "project3": [
+                            {
+                              "projectname": "",
+                              "timetaken": "555"
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    "Other": {
+                      "technology": "react",
+                      "expintech": 55,
+                      "projects": [
+                        {
+                          "project1": [
+                            {
+                              "projectname": "",
+                              "timetaken": "555"
+                            }
+                          ],
+                          "project2": [
+                            {
+                              "projectname": "",
+                              "timetaken": "555"
+                            }
+                          ],
+                          "project3": [
+                            {
+                              "projectname": "",
+                              "timetaken": "555"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "employeId": 3,
+            "personalInfo": [
+              {
+                "emerganynumber": [],
+                "qualifiaction": [
+                  {
+                    "qualifiactionid": 0,
+                    "startyear": true,
+                    "endtyear": false,
+                    "college": 555549,
+                    "percentage": 25
+                  },
+                  {
+                    "qualifiactionid": 0,
+                    "startyear": true,
+                    "endtyear": false,
+                    "college": 555549,
+                    "percentage": 25
+                  },
+                  {
+                    "qualifiactionid": 0,
+                    "startyear": true,
+                    "endtyear": false,
+                    "college": 555549,
+                    "percentage": 25
+                  },
+                  {
+                    "qualifiactionid": 0,
+                    "startyear": true,
+                    "endtyear": false,
+                    "college": 555549,
+                    "percentage": 25
+                  }
+                ],
+                "experience": [
+                  {
+                    "companyName": "qqqq",
+                    "totalyr": 45,
+                    "payment": 4525
+                  },
+                  {
+                    "companyName": "qqqq",
+                    "totalyr": 45,
+                    "payment": 4525
+                  },
+                  {
+                    "companyName": "qqqq",
+                    "totalyr": 45,
+                    "payment": 4525
+                  },
+                  {
+                    "companyName": "qqqq",
+                    "totalyr": 45,
+                    "payment": 4525
+                  }
+                ],
+                "skills": [
+                  {
+                    "frontend": {
+                      "technology": "react",
+                      "expintech": 55,
+                      "projects": [
+                        {
+                          "project1": [
+                            {
+                              "projectname": "",
+                              "timetaken": "555"
+                            }
+                          ],
+                          "project2": [
+                            {
+                              "projectname": "",
+                              "timetaken": "555"
+                            }
+                          ],
+                          "project3": [
+                            {
+                              "projectname": "",
+                              "timetaken": "555"
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    "Backend": {
+                      "technology": "react",
+                      "expintech": 55,
+                      "projects": [
+                        {
+                          "project1": [
+                            {
+                              "projectname": "",
+                              "timetaken": "555"
+                            }
+                          ],
+                          "project2": [
+                            {
+                              "projectname": "",
+                              "timetaken": "555"
+                            }
+                          ],
+                          "project3": [
+                            {
+                              "projectname": "",
+                              "timetaken": "555"
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    "database": {
+                      "technology": "react",
+                      "expintech": 55,
+                      "projects": [
+                        {
+                          "project1": [
+                            {
+                              "projectname": "",
+                              "timetaken": "555"
+                            }
+                          ],
+                          "project2": [
+                            {
+                              "projectname": "",
+                              "timetaken": "555"
+                            }
+                          ],
+                          "project3": [
+                            {
+                              "projectname": "",
+                              "timetaken": "555"
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    "Other": {
+                      "technology": "react",
+                      "expintech": 55,
+                      "projects": [
+                        {
+                          "project1": [
+                            {
+                              "projectname": "",
+                              "timetaken": "555"
+                            }
+                          ],
+                          "project2": [
+                            {
+                              "projectname": "",
+                              "timetaken": "555"
+                            }
+                          ],
+                          "project3": [
+                            {
+                              "projectname": "",
+                              "timetaken": "555"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "employeId": 3,
+            "personalInfo": [
+              {
+                "emerganynumber": [],
+                "qualifiaction": [
+                  {
+                    "qualifiactionid": 0,
+                    "startyear": true,
+                    "endtyear": false,
+                    "college": 555549,
+                    "percentage": 25
+                  },
+                  {
+                    "qualifiactionid": 0,
+                    "startyear": true,
+                    "endtyear": false,
+                    "college": 555549,
+                    "percentage": 25
+                  },
+                  {
+                    "qualifiactionid": 0,
+                    "startyear": true,
+                    "endtyear": false,
+                    "college": 555549,
+                    "percentage": 25
+                  },
+                  {
+                    "qualifiactionid": 0,
+                    "startyear": true,
+                    "endtyear": false,
+                    "college": 555549,
+                    "percentage": 25
+                  }
+                ],
+                "experience": [
+                  {
+                    "companyName": "qqqq",
+                    "totalyr": 45,
+                    "payment": 4525
+                  },
+                  {
+                    "companyName": "qqqq",
+                    "totalyr": 45,
+                    "payment": 4525
+                  },
+                  {
+                    "companyName": "qqqq",
+                    "totalyr": 45,
+                    "payment": 4525
+                  },
+                  {
+                    "companyName": "qqqq",
+                    "totalyr": 45,
+                    "payment": 4525
+                  }
+                ],
+                "skills": [
+                  {
+                    "frontend": {
+                      "technology": "react",
+                      "expintech": 55,
+                      "projects": [
+                        {
+                          "project1": [
+                            {
+                              "projectname": "",
+                              "timetaken": "555"
+                            }
+                          ],
+                          "project2": [
+                            {
+                              "projectname": "",
+                              "timetaken": "555"
+                            }
+                          ],
+                          "project3": [
+                            {
+                              "projectname": "",
+                              "timetaken": "555"
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    "Backend": {
+                      "technology": "react",
+                      "expintech": 55,
+                      "projects": [
+                        {
+                          "project1": [
+                            {
+                              "projectname": "",
+                              "timetaken": "555"
+                            }
+                          ],
+                          "project2": [
+                            {
+                              "projectname": "",
+                              "timetaken": "555"
+                            }
+                          ],
+                          "project3": [
+                            {
+                              "projectname": "",
+                              "timetaken": "555"
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    "database": {
+                      "technology": "react",
+                      "expintech": 55,
+                      "projects": [
+                        {
+                          "project1": [
+                            {
+                              "projectname": "",
+                              "timetaken": "555"
+                            }
+                          ],
+                          "project2": [
+                            {
+                              "projectname": "",
+                              "timetaken": "555"
+                            }
+                          ],
+                          "project3": [
+                            {
+                              "projectname": "",
+                              "timetaken": "555"
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    "Other": {
+                      "technology": "react",
+                      "expintech": 55,
+                      "projects": [
+                        {
+                          "project1": [
+                            {
+                              "projectname": "",
+                              "timetaken": "555"
+                            }
+                          ],
+                          "project2": [
+                            {
+                              "projectname": "",
+                              "timetaken": "555"
+                            }
+                          ],
+                          "project3": [
+                            {
+                              "projectname": "",
+                              "timetaken": "555"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      "secondlevelmanger": {
+        "roleLevelid": 1,
+        "employes": [
+          {
+            "employeId": 3,
+            "personalInfo": [
+              {
+                "emerganynumber": [],
+                "qualifiaction": [
+                  {
+                    "qualifiactionid": 0,
+                    "startyear": true,
+                    "endtyear": false,
+                    "college": 555549,
+                    "percentage": 25
+                  },
+                  {
+                    "qualifiactionid": 0,
+                    "startyear": true,
+                    "endtyear": false,
+                    "college": 555549,
+                    "percentage": 25
+                  },
+                  {
+                    "qualifiactionid": 0,
+                    "startyear": true,
+                    "endtyear": false,
+                    "college": 555549,
+                    "percentage": 25
+                  },
+                  {
+                    "qualifiactionid": 0,
+                    "startyear": true,
+                    "endtyear": false,
+                    "college": 555549,
+                    "percentage": 25
+                  }
+                ],
+                "experience": [
+                  {
+                    "companyName": "qqqq",
+                    "totalyr": 45,
+                    "payment": 4525
+                  },
+                  {
+                    "companyName": "qqqq",
+                    "totalyr": 45,
+                    "payment": 4525
+                  },
+                  {
+                    "companyName": "qqqq",
+                    "totalyr": 45,
+                    "payment": 4525
+                  },
+                  {
+                    "companyName": "qqqq",
+                    "totalyr": 45,
+                    "payment": 4525
+                  }
+                ],
+                "skills": [
+                  {
+                    "frontend": {
+                      "technology": "react",
+                      "expintech": 55,
+                      "projects": [
+                        {
+                          "project1": [
+                            {
+                              "projectname": "",
+                              "timetaken": "555"
+                            }
+                          ],
+                          "project2": [
+                            {
+                              "projectname": "",
+                              "timetaken": "555"
+                            }
+                          ],
+                          "project3": [
+                            {
+                              "projectname": "",
+                              "timetaken": "555"
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    "Backend": {
+                      "technology": "react",
+                      "expintech": 55,
+                      "projects": [
+                        {
+                          "project1": [
+                            {
+                              "projectname": "",
+                              "timetaken": "555"
+                            }
+                          ],
+                          "project2": [
+                            {
+                              "projectname": "",
+                              "timetaken": "555"
+                            }
+                          ],
+                          "project3": [
+                            {
+                              "projectname": "",
+                              "timetaken": "555"
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    "database": {
+                      "technology": "react",
+                      "expintech": 55,
+                      "projects": [
+                        {
+                          "project1": [
+                            {
+                              "projectname": "",
+                              "timetaken": "555"
+                            }
+                          ],
+                          "project2": [
+                            {
+                              "projectname": "",
+                              "timetaken": "555"
+                            }
+                          ],
+                          "project3": [
+                            {
+                              "projectname": "",
+                              "timetaken": "555"
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    "Other": {
+                      "technology": "react",
+                      "expintech": 55,
+                      "projects": [
+                        {
+                          "project1": [
+                            {
+                              "projectname": "",
+                              "timetaken": "555"
+                            }
+                          ],
+                          "project2": [
+                            {
+                              "projectname": "",
+                              "timetaken": "555"
+                            }
+                          ],
+                          "project3": [
+                            {
+                              "projectname": "",
+                              "timetaken": "555"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "employeId": 3,
+            "personalInfo": [
+              {
+                "emerganynumber": [],
+                "qualifiaction": [
+                  {
+                    "qualifiactionid": 0,
+                    "startyear": true,
+                    "endtyear": false,
+                    "college": 555549,
+                    "percentage": 25
+                  },
+                  {
+                    "qualifiactionid": 0,
+                    "startyear": true,
+                    "endtyear": false,
+                    "college": 555549,
+                    "percentage": 25
+                  },
+                  {
+                    "qualifiactionid": 0,
+                    "startyear": true,
+                    "endtyear": false,
+                    "college": 555549,
+                    "percentage": 25
+                  },
+                  {
+                    "qualifiactionid": 0,
+                    "startyear": true,
+                    "endtyear": false,
+                    "college": 555549,
+                    "percentage": 25
+                  }
+                ],
+                "experience": [
+                  {
+                    "companyName": "qqqq",
+                    "totalyr": 45,
+                    "payment": 4525
+                  },
+                  {
+                    "companyName": "qqqq",
+                    "totalyr": 45,
+                    "payment": 4525
+                  },
+                  {
+                    "companyName": "qqqq",
+                    "totalyr": 45,
+                    "payment": 4525
+                  },
+                  {
+                    "companyName": "qqqq",
+                    "totalyr": 45,
+                    "payment": 4525
+                  }
+                ],
+                "skills": [
+                  {
+                    "frontend": {
+                      "technology": "react",
+                      "expintech": 55,
+                      "projects": [
+                        {
+                          "project1": [
+                            {
+                              "projectname": "",
+                              "timetaken": "555"
+                            }
+                          ],
+                          "project2": [
+                            {
+                              "projectname": "",
+                              "timetaken": "555"
+                            }
+                          ],
+                          "project3": [
+                            {
+                              "projectname": "",
+                              "timetaken": "555"
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    "Backend": {
+                      "technology": "react",
+                      "expintech": 55,
+                      "projects": [
+                        {
+                          "project1": [
+                            {
+                              "projectname": "",
+                              "timetaken": "555"
+                            }
+                          ],
+                          "project2": [
+                            {
+                              "projectname": "",
+                              "timetaken": "555"
+                            }
+                          ],
+                          "project3": [
+                            {
+                              "projectname": "",
+                              "timetaken": "555"
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    "database": {
+                      "technology": "react",
+                      "expintech": 55,
+                      "projects": [
+                        {
+                          "project1": [
+                            {
+                              "projectname": "",
+                              "timetaken": "555"
+                            }
+                          ],
+                          "project2": [
+                            {
+                              "projectname": "",
+                              "timetaken": "555"
+                            }
+                          ],
+                          "project3": [
+                            {
+                              "projectname": "",
+                              "timetaken": "555"
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    "Other": {
+                      "technology": "react",
+                      "expintech": 55,
+                      "projects": [
+                        {
+                          "project1": [
+                            {
+                              "projectname": "",
+                              "timetaken": "555"
+                            }
+                          ],
+                          "project2": [
+                            {
+                              "projectname": "",
+                              "timetaken": "555"
+                            }
+                          ],
+                          "project3": [
+                            {
+                              "projectname": "",
+                              "timetaken": "555"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "employeId": 3,
+            "personalInfo": [
+              {
+                "emerganynumber": [],
+                "qualifiaction": [
+                  {
+                    "qualifiactionid": 0,
+                    "startyear": true,
+                    "endtyear": false,
+                    "college": 555549,
+                    "percentage": 25
+                  },
+                  {
+                    "qualifiactionid": 0,
+                    "startyear": true,
+                    "endtyear": false,
+                    "college": 555549,
+                    "percentage": 25
+                  },
+                  {
+                    "qualifiactionid": 0,
+                    "startyear": true,
+                    "endtyear": false,
+                    "college": 555549,
+                    "percentage": 25
+                  },
+                  {
+                    "qualifiactionid": 0,
+                    "startyear": true,
+                    "endtyear": false,
+                    "college": 555549,
+                    "percentage": 25
+                  }
+                ],
+                "experience": [
+                  {
+                    "companyName": "qqqq",
+                    "totalyr": 45,
+                    "payment": 4525
+                  },
+                  {
+                    "companyName": "qqqq",
+                    "totalyr": 45,
+                    "payment": 4525
+                  },
+                  {
+                    "companyName": "qqqq",
+                    "totalyr": 45,
+                    "payment": 4525
+                  },
+                  {
+                    "companyName": "qqqq",
+                    "totalyr": 45,
+                    "payment": 4525
+                  }
+                ],
+                "skills": [
+                  {
+                    "frontend": {
+                      "technology": "react",
+                      "expintech": 55,
+                      "projects": [
+                        {
+                          "project1": [
+                            {
+                              "projectname": "",
+                              "timetaken": "555"
+                            }
+                          ],
+                          "project2": [
+                            {
+                              "projectname": "",
+                              "timetaken": "555"
+                            }
+                          ],
+                          "project3": [
+                            {
+                              "projectname": "",
+                              "timetaken": "555"
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    "Backend": {
+                      "technology": "react",
+                      "expintech": 55,
+                      "projects": [
+                        {
+                          "project1": [
+                            {
+                              "projectname": "",
+                              "timetaken": "555"
+                            }
+                          ],
+                          "project2": [
+                            {
+                              "projectname": "",
+                              "timetaken": "555"
+                            }
+                          ],
+                          "project3": [
+                            {
+                              "projectname": "",
+                              "timetaken": "555"
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    "database": {
+                      "technology": "react",
+                      "expintech": 55,
+                      "projects": [
+                        {
+                          "project1": [
+                            {
+                              "projectname": "",
+                              "timetaken": "555"
+                            }
+                          ],
+                          "project2": [
+                            {
+                              "projectname": "",
+                              "timetaken": "555"
+                            }
+                          ],
+                          "project3": [
+                            {
+                              "projectname": "",
+                              "timetaken": "555"
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    "Other": {
+                      "technology": "react",
+                      "expintech": 55,
+                      "projects": [
+                        {
+                          "project1": [
+                            {
+                              "projectname": "",
+                              "timetaken": "555"
+                            }
+                          ],
+                          "project2": [
+                            {
+                              "projectname": "",
+                              "timetaken": "555"
+                            }
+                          ],
+                          "project3": [
+                            {
+                              "projectname": "",
+                              "timetaken": "555"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "employeId": 3,
+            "personalInfo": [
+              {
+                "emerganynumber": [],
+                "qualifiaction": [
+                  {
+                    "qualifiactionid": 0,
+                    "startyear": true,
+                    "endtyear": false,
+                    "college": 555549,
+                    "percentage": 25
+                  },
+                  {
+                    "qualifiactionid": 0,
+                    "startyear": true,
+                    "endtyear": false,
+                    "college": 555549,
+                    "percentage": 25
+                  },
+                  {
+                    "qualifiactionid": 0,
+                    "startyear": true,
+                    "endtyear": false,
+                    "college": 555549,
+                    "percentage": 25
+                  },
+                  {
+                    "qualifiactionid": 0,
+                    "startyear": true,
+                    "endtyear": false,
+                    "college": 555549,
+                    "percentage": 25
+                  }
+                ],
+                "experience": [
+                  {
+                    "companyName": "qqqq",
+                    "totalyr": 45,
+                    "payment": 4525
+                  },
+                  {
+                    "companyName": "qqqq",
+                    "totalyr": 45,
+                    "payment": 4525
+                  },
+                  {
+                    "companyName": "qqqq",
+                    "totalyr": 45,
+                    "payment": 4525
+                  },
+                  {
+                    "companyName": "qqqq",
+                    "totalyr": 45,
+                    "payment": 4525
+                  }
+                ],
+                "skills": [
+                  {
+                    "frontend": {
+                      "technology": "react",
+                      "expintech": 55,
+                      "projects": [
+                        {
+                          "project1": [
+                            {
+                              "projectname": "",
+                              "timetaken": "555"
+                            }
+                          ],
+                          "project2": [
+                            {
+                              "projectname": "",
+                              "timetaken": "555"
+                            }
+                          ],
+                          "project3": [
+                            {
+                              "projectname": "",
+                              "timetaken": "555"
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    "Backend": {
+                      "technology": "react",
+                      "expintech": 55,
+                      "projects": [
+                        {
+                          "project1": [
+                            {
+                              "projectname": "",
+                              "timetaken": "555"
+                            }
+                          ],
+                          "project2": [
+                            {
+                              "projectname": "",
+                              "timetaken": "555"
+                            }
+                          ],
+                          "project3": [
+                            {
+                              "projectname": "",
+                              "timetaken": "555"
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    "database": {
+                      "technology": "react",
+                      "expintech": 55,
+                      "projects": [
+                        {
+                          "project1": [
+                            {
+                              "projectname": "",
+                              "timetaken": "555"
+                            }
+                          ],
+                          "project2": [
+                            {
+                              "projectname": "",
+                              "timetaken": "555"
+                            }
+                          ],
+                          "project3": [
+                            {
+                              "projectname": "",
+                              "timetaken": "555"
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    "Other": {
+                      "technology": "react",
+                      "expintech": 55,
+                      "projects": [
+                        {
+                          "project1": [
+                            {
+                              "projectname": "",
+                              "timetaken": "555"
+                            }
+                          ],
+                          "project2": [
+                            {
+                              "projectname": "",
+                              "timetaken": "555"
+                            }
+                          ],
+                          "project3": [
+                            {
+                              "projectname": "",
+                              "timetaken": "555"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      "admin": {
+        "roleLevelid": 1,
+        "employes": [
+          {
+            "employeId": 3,
+            "personalInfo": [
+              {
+                "emerganynumber": [],
+                "qualifiaction": [
+                  {
+                    "qualifiactionid": 0,
+                    "startyear": true,
+                    "endtyear": false,
+                    "college": 555549,
+                    "percentage": 25
+                  },
+                  {
+                    "qualifiactionid": 0,
+                    "startyear": true,
+                    "endtyear": false,
+                    "college": 555549,
+                    "percentage": 25
+                  },
+                  {
+                    "qualifiactionid": 0,
+                    "startyear": true,
+                    "endtyear": false,
+                    "college": 555549,
+                    "percentage": 25
+                  },
+                  {
+                    "qualifiactionid": 0,
+                    "startyear": true,
+                    "endtyear": false,
+                    "college": 555549,
+                    "percentage": 25
+                  }
+                ],
+                "experience": [
+                  {
+                    "companyName": "qqqq",
+                    "totalyr": 45,
+                    "payment": 4525
+                  },
+                  {
+                    "companyName": "qqqq",
+                    "totalyr": 45,
+                    "payment": 4525
+                  },
+                  {
+                    "companyName": "qqqq",
+                    "totalyr": 45,
+                    "payment": 4525
+                  },
+                  {
+                    "companyName": "qqqq",
+                    "totalyr": 45,
+                    "payment": 4525
+                  }
+                ],
+                "skills": [
+                  {
+                    "frontend": {
+                      "technology": "react",
+                      "expintech": 55,
+                      "projects": [
+                        {
+                          "project1": [
+                            {
+                              "projectname": "",
+                              "timetaken": "555"
+                            }
+                          ],
+                          "project2": [
+                            {
+                              "projectname": "",
+                              "timetaken": "555"
+                            }
+                          ],
+                          "project3": [
+                            {
+                              "projectname": "",
+                              "timetaken": "555"
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    "Backend": {
+                      "technology": "react",
+                      "expintech": 55,
+                      "projects": [
+                        {
+                          "project1": [
+                            {
+                              "projectname": "",
+                              "timetaken": "555"
+                            }
+                          ],
+                          "project2": [
+                            {
+                              "projectname": "",
+                              "timetaken": "555"
+                            }
+                          ],
+                          "project3": [
+                            {
+                              "projectname": "",
+                              "timetaken": "555"
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    "database": {
+                      "technology": "react",
+                      "expintech": 55,
+                      "projects": [
+                        {
+                          "project1": [
+                            {
+                              "projectname": "",
+                              "timetaken": "555"
+                            }
+                          ],
+                          "project2": [
+                            {
+                              "projectname": "",
+                              "timetaken": "555"
+                            }
+                          ],
+                          "project3": [
+                            {
+                              "projectname": "",
+                              "timetaken": "555"
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    "Other": {
+                      "technology": "react",
+                      "expintech": 55,
+                      "projects": [
+                        {
+                          "project1": [
+                            {
+                              "projectname": "",
+                              "timetaken": "555"
+                            }
+                          ],
+                          "project2": [
+                            {
+                              "projectname": "",
+                              "timetaken": "555"
+                            }
+                          ],
+                          "project3": [
+                            {
+                              "projectname": "",
+                              "timetaken": "555"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "employeId": 3,
+            "personalInfo": [
+              {
+                "emerganynumber": [],
+                "qualifiaction": [
+                  {
+                    "qualifiactionid": 0,
+                    "startyear": true,
+                    "endtyear": false,
+                    "college": 555549,
+                    "percentage": 25
+                  },
+                  {
+                    "qualifiactionid": 0,
+                    "startyear": true,
+                    "endtyear": false,
+                    "college": 555549,
+                    "percentage": 25
+                  },
+                  {
+                    "qualifiactionid": 0,
+                    "startyear": true,
+                    "endtyear": false,
+                    "college": 555549,
+                    "percentage": 25
+                  },
+                  {
+                    "qualifiactionid": 0,
+                    "startyear": true,
+                    "endtyear": false,
+                    "college": 555549,
+                    "percentage": 25
+                  }
+                ],
+                "experience": [
+                  {
+                    "companyName": "qqqq",
+                    "totalyr": 45,
+                    "payment": 4525
+                  },
+                  {
+                    "companyName": "qqqq",
+                    "totalyr": 45,
+                    "payment": 4525
+                  },
+                  {
+                    "companyName": "qqqq",
+                    "totalyr": 45,
+                    "payment": 4525
+                  },
+                  {
+                    "companyName": "qqqq",
+                    "totalyr": 45,
+                    "payment": 4525
+                  }
+                ],
+                "skills": [
+                  {
+                    "frontend": {
+                      "technology": "react",
+                      "expintech": 55,
+                      "projects": [
+                        {
+                          "project1": [
+                            {
+                              "projectname": "",
+                              "timetaken": "555"
+                            }
+                          ],
+                          "project2": [
+                            {
+                              "projectname": "",
+                              "timetaken": "555"
+                            }
+                          ],
+                          "project3": [
+                            {
+                              "projectname": "",
+                              "timetaken": "555"
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    "Backend": {
+                      "technology": "react",
+                      "expintech": 55,
+                      "projects": [
+                        {
+                          "project1": [
+                            {
+                              "projectname": "",
+                              "timetaken": "555"
+                            }
+                          ],
+                          "project2": [
+                            {
+                              "projectname": "",
+                              "timetaken": "555"
+                            }
+                          ],
+                          "project3": [
+                            {
+                              "projectname": "",
+                              "timetaken": "555"
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    "database": {
+                      "technology": "react",
+                      "expintech": 55,
+                      "projects": [
+                        {
+                          "project1": [
+                            {
+                              "projectname": "",
+                              "timetaken": "555"
+                            }
+                          ],
+                          "project2": [
+                            {
+                              "projectname": "",
+                              "timetaken": "555"
+                            }
+                          ],
+                          "project3": [
+                            {
+                              "projectname": "",
+                              "timetaken": "555"
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    "Other": {
+                      "technology": "react",
+                      "expintech": 55,
+                      "projects": [
+                        {
+                          "project1": [
+                            {
+                              "projectname": "",
+                              "timetaken": "555"
+                            }
+                          ],
+                          "project2": [
+                            {
+                              "projectname": "",
+                              "timetaken": "555"
+                            }
+                          ],
+                          "project3": [
+                            {
+                              "projectname": "",
+                              "timetaken": "555"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "employeId": 3,
+            "personalInfo": [
+              {
+                "emerganynumber": [],
+                "qualifiaction": [
+                  {
+                    "qualifiactionid": 0,
+                    "startyear": true,
+                    "endtyear": false,
+                    "college": 555549,
+                    "percentage": 25
+                  },
+                  {
+                    "qualifiactionid": 0,
+                    "startyear": true,
+                    "endtyear": false,
+                    "college": 555549,
+                    "percentage": 25
+                  },
+                  {
+                    "qualifiactionid": 0,
+                    "startyear": true,
+                    "endtyear": false,
+                    "college": 555549,
+                    "percentage": 25
+                  },
+                  {
+                    "qualifiactionid": 0,
+                    "startyear": true,
+                    "endtyear": false,
+                    "college": 555549,
+                    "percentage": 25
+                  }
+                ],
+                "experience": [
+                  {
+                    "companyName": "qqqq",
+                    "totalyr": 45,
+                    "payment": 4525
+                  },
+                  {
+                    "companyName": "qqqq",
+                    "totalyr": 45,
+                    "payment": 4525
+                  },
+                  {
+                    "companyName": "qqqq",
+                    "totalyr": 45,
+                    "payment": 4525
+                  },
+                  {
+                    "companyName": "qqqq",
+                    "totalyr": 45,
+                    "payment": 4525
+                  }
+                ],
+                "skills": [
+                  {
+                    "frontend": {
+                      "technology": "react",
+                      "expintech": 55,
+                      "projects": [
+                        {
+                          "project1": [
+                            {
+                              "projectname": "",
+                              "timetaken": "555"
+                            }
+                          ],
+                          "project2": [
+                            {
+                              "projectname": "",
+                              "timetaken": "555"
+                            }
+                          ],
+                          "project3": [
+                            {
+                              "projectname": "",
+                              "timetaken": "555"
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    "Backend": {
+                      "technology": "react",
+                      "expintech": 55,
+                      "projects": [
+                        {
+                          "project1": [
+                            {
+                              "projectname": "",
+                              "timetaken": "555"
+                            }
+                          ],
+                          "project2": [
+                            {
+                              "projectname": "",
+                              "timetaken": "555"
+                            }
+                          ],
+                          "project3": [
+                            {
+                              "projectname": "",
+                              "timetaken": "555"
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    "database": {
+                      "technology": "react",
+                      "expintech": 55,
+                      "projects": [
+                        {
+                          "project1": [
+                            {
+                              "projectname": "",
+                              "timetaken": "555"
+                            }
+                          ],
+                          "project2": [
+                            {
+                              "projectname": "",
+                              "timetaken": "555"
+                            }
+                          ],
+                          "project3": [
+                            {
+                              "projectname": "",
+                              "timetaken": "555"
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    "Other": {
+                      "technology": "react",
+                      "expintech": 55,
+                      "projects": [
+                        {
+                          "project1": [
+                            {
+                              "projectname": "",
+                              "timetaken": "555"
+                            }
+                          ],
+                          "project2": [
+                            {
+                              "projectname": "",
+                              "timetaken": "555"
+                            }
+                          ],
+                          "project3": [
+                            {
+                              "projectname": "",
+                              "timetaken": "555"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "employeId": 3,
+            "personalInfo": [
+              {
+                "emerganynumber": [],
+                "qualifiaction": [
+                  {
+                    "qualifiactionid": 0,
+                    "startyear": true,
+                    "endtyear": false,
+                    "college": 555549,
+                    "percentage": 25
+                  },
+                  {
+                    "qualifiactionid": 0,
+                    "startyear": true,
+                    "endtyear": false,
+                    "college": 555549,
+                    "percentage": 25
+                  },
+                  {
+                    "qualifiactionid": 0,
+                    "startyear": true,
+                    "endtyear": false,
+                    "college": 555549,
+                    "percentage": 25
+                  },
+                  {
+                    "qualifiactionid": 0,
+                    "startyear": true,
+                    "endtyear": false,
+                    "college": 555549,
+                    "percentage": 25
+                  }
+                ],
+                "experience": [
+                  {
+                    "companyName": "qqqq",
+                    "totalyr": 45,
+                    "payment": 4525
+                  },
+                  {
+                    "companyName": "qqqq",
+                    "totalyr": 45,
+                    "payment": 4525
+                  },
+                  {
+                    "companyName": "qqqq",
+                    "totalyr": 45,
+                    "payment": 4525
+                  },
+                  {
+                    "companyName": "qqqq",
+                    "totalyr": 45,
+                    "payment": 4525
+                  }
+                ],
+                "skills": [
+                  {
+                    "frontend": {
+                      "technology": "react",
+                      "expintech": 55,
+                      "projects": [
+                        {
+                          "project1": [
+                            {
+                              "projectname": "",
+                              "timetaken": "555"
+                            }
+                          ],
+                          "project2": [
+                            {
+                              "projectname": "",
+                              "timetaken": "555"
+                            }
+                          ],
+                          "project3": [
+                            {
+                              "projectname": "",
+                              "timetaken": "555"
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    "Backend": {
+                      "technology": "react",
+                      "expintech": 55,
+                      "projects": [
+                        {
+                          "project1": [
+                            {
+                              "projectname": "",
+                              "timetaken": "555"
+                            }
+                          ],
+                          "project2": [
+                            {
+                              "projectname": "",
+                              "timetaken": "555"
+                            }
+                          ],
+                          "project3": [
+                            {
+                              "projectname": "",
+                              "timetaken": "555"
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    "database": {
+                      "technology": "react",
+                      "expintech": 55,
+                      "projects": [
+                        {
+                          "project1": [
+                            {
+                              "projectname": "",
+                              "timetaken": "555"
+                            }
+                          ],
+                          "project2": [
+                            {
+                              "projectname": "",
+                              "timetaken": "555"
+                            }
+                          ],
+                          "project3": [
+                            {
+                              "projectname": "",
+                              "timetaken": "555"
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    "Other": {
+                      "technology": "react",
+                      "expintech": 55,
+                      "projects": [
+                        {
+                          "project1": [
+                            {
+                              "projectname": "",
+                              "timetaken": "555"
+                            }
+                          ],
+                          "project2": [
+                            {
+                              "projectname": "",
+                              "timetaken": "555"
+                            }
+                          ],
+                          "project3": [
+                            {
+                              "projectname": "",
+                              "timetaken": "555"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}
